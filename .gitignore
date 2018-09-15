@@ -1,0 +1,10 @@
+.cproject
+.project
+.ptp-sync
+.ptp-sync/*
+
+.settings
+.settings/*
+
+Debug
+Debug/*
